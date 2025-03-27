@@ -1,0 +1,49 @@
+# Arquivos de build
+bin/
+obj/
+Debug/
+Release/
+
+# Arquivos do Visual Studio
+.vs/
+*.user
+*.userosscache
+*.sln.docstates
+*.userprefs
+
+# Arquivos de dependência
+packages/
+*.nupkg
+project.lock.json
+
+# Arquivos de configuração
+appsettings.Development.json
+appsettings.Production.json
+*.Development.json
+*.Production.json
+
+# Arquivos de log
+*.log
+logs/
+
+# Arquivos temporários
+*.tmp
+*.temp
+*.swp
+
+# Arquivos de ambiente
+.env
+.env.local
+.env.*.local
+
+# Arquivos de IDE
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln.iml
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db 
